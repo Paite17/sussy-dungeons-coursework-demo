@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: d9796cd9c068a31408434306a6a5658a
+  - enabled: 1
+    path: Assets/Scenes/MainScene.unity
+    guid: 629840d4563e89c4c96531636ccfe406
+  - enabled: 1
+    path: Assets/Scenes/OptionsScene.unity
+    guid: 2e804de4de369bd468e0d1fe9c796452
+  - enabled: 1
+    path: Assets/Scenes/BattleScene.unity
+    guid: 1bf3bc12689705b4083cc4d868fbb3ba
+  - enabled: 1
+    path: Assets/Scenes/PrologueScene.unity
+    guid: 053bd33732ec334419ede53d2f90919d
+  - enabled: 1
+    path: Assets/Scenes/Boss1Area.unity
+    guid: 27f276c1d22a7bd44842ac197f0da295
+  - enabled: 1
+    path: Assets/Scenes/EndOfDemo.unity
+    guid: ce784878049185f42a2f599416b86dd7
+  - enabled: 1
+    path: Assets/Scenes/GameOverScene.unity
+    guid: 03ecd576eeec15441b482d87b618b9b0
+  - enabled: 1
+    path: Assets/Scenes/BossBattleScene.unity
+    guid: 10b64929a87d83e4c826052f05b3a298
+  m_configObjects: {}

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8e4fcc517136536499a2a6775cdd2912, type: 3}
+  m_Name: Prologue
+  m_EditorClassIdentifier: 
+  dialogue:
+  - For thousands of years, people have spoken the legend of the Sussy Dungeon.
+  - The legend tells of a grand dungeon hidden somewhere in the world...
+  - A dungeon filled with strange and dangerous creatures, but also great treasures.
+  - 'For years many have struggled, and failed, to discover this dungeon. '
+  - Most have concluded that it was just some silly tale, a lie that got out of hand.
+  - But today... I found it. The Sussy Dungeon.
+  responses: []
